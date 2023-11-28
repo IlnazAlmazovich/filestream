@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\filestream\gilestream3\bin\Debug\gilestream3.exe.config
+C:\Users\Пользователь\Desktop\filestream\gilestream3\bin\Debug\gilestream3.exe
+C:\Users\Пользователь\Desktop\filestream\gilestream3\bin\Debug\gilestream3.pdb
+C:\Users\Пользователь\Desktop\filestream\gilestream3\obj\Debug\gilestream3.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\filestream\gilestream3\obj\Debug\gilestream3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\filestream\gilestream3\obj\Debug\gilestream3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\filestream\gilestream3\obj\Debug\gilestream3.exe
+C:\Users\Пользователь\Desktop\filestream\gilestream3\obj\Debug\gilestream3.pdb

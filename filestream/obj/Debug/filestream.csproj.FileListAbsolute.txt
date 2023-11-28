@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\filestream\filestream\bin\Debug\filestream.exe.config
+C:\Users\Пользователь\Desktop\filestream\filestream\bin\Debug\filestream.exe
+C:\Users\Пользователь\Desktop\filestream\filestream\bin\Debug\filestream.pdb
+C:\Users\Пользователь\Desktop\filestream\filestream\obj\Debug\filestream.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\filestream\filestream\obj\Debug\filestream.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\filestream\filestream\obj\Debug\filestream.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\filestream\filestream\obj\Debug\filestream.exe
+C:\Users\Пользователь\Desktop\filestream\filestream\obj\Debug\filestream.pdb
